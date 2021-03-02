@@ -1,5 +1,4 @@
 import * as crypto from 'crypto';
-import { cursorTo } from 'readline';
 
 class Transaction {
     constructor(
